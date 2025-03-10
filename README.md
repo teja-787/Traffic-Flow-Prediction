@@ -30,7 +30,7 @@ A **web application** using **Streamlit** allows users to:
 ## 🚀 How to Run the Project
 1️⃣ Install dependencies:
 ```bash
-pip install -r requirements.txt
+pip install streamlit tensorflow keras pandas numpy scikit-learn matplotlib seaborn
 ```
 2️⃣ Run the Streamlit app:
 ```bash
