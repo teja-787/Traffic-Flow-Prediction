@@ -37,7 +37,9 @@ pip install streamlit tensorflow keras pandas numpy scikit-learn matplotlib seab
 streamlit run traffic_dashboard.py
 ```
 
-## 📂 Project Files
+![image](https://github.com/user-attachments/assets/08282396-c828-445b-ad50-cb8b7d303c84)
+
+## Project Files
 - `traffic_dashboard.py` → Streamlit Web App
 - `random_forest_model.pkl` → Best ML Model (Saved)
 - `scaler.pkl` → Data Preprocessing Model
