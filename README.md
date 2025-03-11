@@ -37,6 +37,8 @@ pip install streamlit tensorflow keras pandas numpy scikit-learn matplotlib seab
 streamlit run traffic_dashboard.py
 ```
 
+THIS IS THE DASHBOARD WHERE WE CAN PREDICT FUTURE VEHICLE COUNT BY GIVING THE PREVIOUS TRAFFIC FLOW AND OUR RANDOM FOREST MODEL PREDICTS IT CORRECTLY
+
 ![image](https://github.com/user-attachments/assets/08282396-c828-445b-ad50-cb8b7d303c84)
 
 ## Project Files
