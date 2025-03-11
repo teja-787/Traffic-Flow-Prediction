@@ -1,20 +1,20 @@
 # MATHS-AND-DSA
-# 🚦 Traffic Prediction Using Machine Learning
+#  Traffic Prediction Using Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 This project predicts **future traffic flow** using machine learning models. It includes a **real-time prediction dashboard** built with Streamlit.
 
-## 📊 Dataset
+##  Dataset
 - **Source**: Provided CSV file (`Traffic.csv`)
 - **Features Used**: Time-based traffic count data
 - **Target Variable**: Future traffic count (Next 15 min)
 
-## 🏗️ Machine Learning Models Implemented
+##  Machine Learning Models Implemented
 1️⃣ **Linear Regression**
 2️⃣ **Random Forest Regressor** ✅ (Best Model)
 3️⃣ **LSTM Neural Network**
 
-### 📈 **Model Performance Comparison**
+###  **Model Performance Comparison**
 | Model | MAE | RMSE | R² Score |
 |--------|------|-------|----------|
 | **Linear Regression** | 22.05 | 30.91 | 0.74 |
